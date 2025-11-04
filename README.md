@@ -69,6 +69,7 @@
 </div>
 
 ---
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 ## 🧩 Fun Section
 
@@ -80,3 +81,5 @@ const Ahmed = {
   learning: ["Advanced React Patterns", "Testing", "Node.js"],
   passion: "Building great UIs & connecting tech with real business results!",
 };
+
+
