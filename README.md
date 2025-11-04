@@ -3,8 +3,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Elsaifi&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ahmed-Elsaifi&count_bg=%2379C83D&title_bg=%23555555&icon=react.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)
 [![LinkedIn Badge](https://img.shields.io/badge/-Ahmed%20Elsaifi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsaifi-61963031a/)  
@@ -18,6 +16,16 @@
 🎯 Passionate about building **modern, responsive, and interactive** web applications.  
 💻 I focus on writing **clean, scalable, and maintainable code** using modern front-end technologies.  
 ⚡ I also have **basic knowledge** in back-end (Node.js, Express, MongoDB).
+
+---
+
+## 💼 Professional Experience  
+
+💼 **Sales Professional (2017–2025)**  
+- Over **8 years of experience** in the sales industry across **Egypt and Nigeria**.  
+- Specialized in **customer relations, negotiation, and persuasive selling**.  
+- Currently working at **Elasell (Nigeria, 2024–2025)** — a leading company in **installment sales**.  
+- Skilled at understanding client needs, providing tailored solutions, and driving consistent revenue growth.  
 
 ---
 
@@ -42,10 +50,10 @@
 
 ## 💼 Featured Projects
 
-- 🛒 **E-Commerce Store** → React, Redux, TypeScript  
-- 🍽️ **World Meals App** → Next.js + Redux + API  
+- 🛒 **E-Commerce Store** → React, Hooks + Authentication + API integration + Tailwind CSS  
+- 🍽️ **World Meals App** → React + API + Tailwind CSS  
 - ☁️ **Weather App (Real-Time)** → React + OpenWeather API  
-- 💬 **Social Media App** → Authentication + API integration  
+- 💬 **Social Media App** → Authentication + API integration + Material UI + Next.js + TypeScript + Redux
 
 📌 Check them all on [My GitHub](https://github.com/Ahmed-Elsaifi)
 
@@ -67,7 +75,8 @@
 ```javascript
 const Ahmed = {
   role: "Front-End Developer",
+  salesExperience: "8+ years across Egypt & Nigeria (currently at Elasell)",
   code: ["HTML", "CSS", "JavaScript", "React", "NextJS", "TypeScript"],
   learning: ["Advanced React Patterns", "Testing", "Node.js"],
-  passion: "Building cool UIs and solving real problems!",
+  passion: "Building great UIs & connecting tech with real business results!",
 };
